@@ -1,5 +1,14 @@
 # juegoprogramacionparavideojuegos
 ## Actualización del Proyecto
+se agregaron las siguiente funciones
+* se agrego el movimiento de personaje
+* se agrego la interacion con las luces
+* se agrego el marcador
+* se agregaron los efectos de sonido de finish y encender vela
+* se agrego la condicion de victoria al encender cinco velas
+* se agrego una pantalla de victoria
+* se agregaron los modelos de los personajes y las velas
+## Actualización del Proyecto
 Se ha inicio el proyecto con entorno de juego, cámara, e iluminación (falta mejorar la iluminación), y tiene una textura en el piso pero solo es de muestra
 ## Actualización del Proyecto
 se hicieron modificaciones en los siguientes elementos
